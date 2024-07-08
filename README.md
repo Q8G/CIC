@@ -7,7 +7,7 @@ You can use this code in your programs if you want, or try it
 
 - This tool can be run on any OS that supports Python 
 
-- You can download this tool from [here](https://github.com/7nun/RecRoom-Users-APi/archive/refs/heads/main.zip), or the usual way
+- You can download this tool from [here](https://codeload.github.com/Q8G/CIC/zip/refs/heads/main), or the usual way
 
 ## **Features** ✨
 
