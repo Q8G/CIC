@@ -19,10 +19,10 @@ You can use this code in your programs if you want, or try it
 
 
 **IN Windows CMD :**
-```
+```bash
 C:\WINDOWS\system32> cd C:\Tool folder...
 ```
-```
+```bash
 C:\WINDOWS\system32> Run.bat
 ```
 
