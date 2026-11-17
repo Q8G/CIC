@@ -35,7 +35,7 @@ Run the Run.bat file
 ```
 
 
-## **Image of a Code**
+## **Code Output :**
 
 ![App Screenshot](https://i.postimg.cc/brpK67zL/image.png)
 
